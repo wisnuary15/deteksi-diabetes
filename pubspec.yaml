@@ -1,0 +1,58 @@
+name: DiabetCheck
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.4
+  shared_preferences: ^2.2.2
+  image: ^4.0.17
+  http: ^1.1.0
+  tflite_flutter: ^0.10.4
+  crypto: ^3.0.3 # Untuk enkripsi password
+  email_validator: ^2.1.17 # Validasi email
+  flutter_secure_storage: ^9.0.0 # Penyimpanan aman
+  provider: ^6.1.1
+  json_annotation: ^4.8.1
+  cupertino_icons: ^1.0.2
+  path_provider: ^2.1.1
+  sqflite: ^2.3.0
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.0
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+  url_launcher: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  json_serializable: ^6.7.1
+  build_runner: ^2.4.7
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/icons/app_icon.png"
+    background_color: "#1976D2"
+    theme_color: "#1976D2"
+  windows:
+    generate: true
+    image_path: "assets/icons/app_icon.png"
+    icon_size: 48
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/
+    - assets/icons/
