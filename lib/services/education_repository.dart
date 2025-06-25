@@ -4,7 +4,7 @@ import '../models/education_article.dart';
 
 class EducationRepository {
   static const String _apiKey =
-      'b97c8a5e774e4b5296a37afd8041b24f'; // NewsAPI key
+      'ganti dengan news API'; 
   static const String _baseUrl = 'https://newsapi.org/v2/everything';
 
   // Cache untuk artikel
