@@ -306,10 +306,9 @@ flutter test
 ## 📞 Support & Community
 
 ### Get Help
-- **📧 Email**: support@deteksidiabetes.app
-- **💬 Discord**: [Join our Discord](https://discord.gg/deteksidiabetes)
-- **📱 WhatsApp**: +62-xxx-xxx-xxxx
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/deteksi-diabetes/issues)
+- **📧 Email**: wisnuary15@gmail.com
+- **📱 IG**: wisnuary1
+- **🐛 Issues**: [GitHub Issues](https://github.com/wisnuary15/deteksi-diabetes/issues)
 
 ### Community
 - **👥 Facebook Group**: DeteksiDiabetes Indonesia
