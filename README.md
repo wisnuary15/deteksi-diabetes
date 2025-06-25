@@ -117,7 +117,7 @@ diabetes/
 - **Model Size**: ~15MB
 
 ### Training Dataset
-- **Images**: 10,000+ tongue images
+- **Images**: 500+ tongue images
 - **Classes**: 2 (diabetes, non-diabetes)
 - **Validation Split**: 80/20
 - **Augmentation**: Rotation, brightness, contrast
