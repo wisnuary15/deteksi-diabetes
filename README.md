@@ -306,10 +306,21 @@ flutter test
 ## 📞 Support & Community
 
 ### Get Help
-- **📧 Email**: aryswadanawisnu@gmail.com
-- **💬 Discord**: gak ada discord
-- **📱 IG**: wisnuary1
-- **🐛 Issues**: [GitHub Issues](https://github.com/wisnuary15/diabetes/issues)
+- **📧 Email**: support@deteksidiabetes.app
+- **💬 Discord**: [Join our Discord](https://discord.gg/deteksidiabetes)
+- **📱 WhatsApp**: +62-xxx-xxx-xxxx
+- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/deteksi-diabetes/issues)
+
+### Community
+- **👥 Facebook Group**: DeteksiDiabetes Indonesia
+- **📸 Instagram**: @deteksidiabetes.official
+- **🐦 Twitter**: @DeteksiDiabetes
+- **📺 YouTube**: DeteksiDiabetes Channel
+
+### Business Inquiries
+- **Partnership**: partners@deteksidiabetes.app
+- **Licensing**: license@deteksidiabetes.app
+- **Media**: media@deteksidiabetes.app
 
 ---
 
@@ -355,22 +366,31 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 👨‍💻 Author & Maintainer
+
+- **Nama**: Wisnu Arya Saputra
+- **GitHub**: [wisnuary15](https://github.com/wisnuary15)
+- **Email**: wisnuary15@gmail.com
+- **LinkedIn**: [linkedin.com/in/wisnuary15](https://linkedin.com/in/wisnuary15)
+
+---
+
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/deteksi-diabetes?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/deteksi-diabetes?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/deteksi-diabetes)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/deteksi-diabetes)
+![GitHub stars](https://img.shields.io/github/stars/wisnuary15/deteksi-diabetes?style=social)
+![GitHub forks](https://img.shields.io/github/forks/wisnuary15/deteksi-diabetes?style=social)
+![GitHub issues](https://img.shields.io/github/issues/wisnuary15/deteksi-diabetes)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/wisnuary15/deteksi-diabetes)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/deteksi-diabetes)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yourusername/deteksi-diabetes)
-![Lines of code](https://img.shields.io/tokei/lines/github/yourusername/deteksi-diabetes)
+![GitHub last commit](https://img.shields.io/github/last-commit/wisnuary15/deteksi-diabetes)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wisnuary15/deteksi-diabetes)
+![Lines of code](https://img.shields.io/tokei/lines/github/wisnuary15/deteksi-diabetes)
 
 ---
 
 <div align="center">
 
-**💚 Dibuat dengan ❤️ untuk Indonesia yang lebih sehat**
+**💚 Dibuat dengan ❤️ oleh [wisnuary15](https://github.com/wisnuary15) untuk Indonesia yang lebih sehat**
 
 **[⬆ Back to Top](#-deteksidiabetes---ai-powered-diabetes-detection-app)**
 
@@ -380,4 +400,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **📅 Last Updated**: 23 Juni 2025  
 **📋 Version**: 1.0.0  
-**👨‍💻 Maintainer**: [Your Name](https://github.com/yourusername)
+**👨‍💻 Maintainer**: [wisnuary15](https://github.com/wisnuary15)
