@@ -8,7 +8,7 @@ import 'chat_preferences_service.dart';
 
 class ChatService {
   static const String _baseUrl = 'https://generativelanguage.googleapis.com/';
-  static const String _apiKey = 'AIzaSyCpfaHYDwfYv-iV57aeNDsiI1jeTR9py1w';
+  static const String _apiKey = 'ganti dengan API mu sendiri, cari di google ai studio';
 
   final http.Client _httpClient;
 
